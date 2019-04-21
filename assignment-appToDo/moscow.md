@@ -15,4 +15,4 @@ The MoSCoW method provides a simple way of clarifying the priorities involved on
 
 **Won’t have:** These are the requirements that everyone agrees aren’t going to happen. It might be because they cost too much to implement or provide too little ROI (Return On Investment) for the efforts required to implement them. These are simply left to one side until they are either removed from the requirements list or become a higher priority.
 
-![MoSCoW](https://github.com/catamold/appToDo/blob/master/images/final-assignment/MoSCoW.png)
+![MoSCoW](../images/final-assignment/MoSCoW.png)

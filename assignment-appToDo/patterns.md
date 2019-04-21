@@ -13,4 +13,4 @@ Data Source Pattern: **Table Data Gateway**
 
 It handles Database interface only and is not supposed to contain any Business Logic. A Table Data Gateway holds all the SQL for accessing a single table or view: selects, inserts, updates, and deletes. Other code calls its methods for all interaction with the database.
 
-![Code Structure](https://github.com/catamold/appToDo/blob/master/images/final-assignment/CodeStructure.png)
+![Code Structure](../images/final-assignment/CodeStructure.png)
