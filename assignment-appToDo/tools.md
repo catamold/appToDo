@@ -1,7 +1,8 @@
 ---
 title: Tools and Programming languages
 parent: Final Assignment
-has_children: false
+has_children: true
+nav_order: 1
 ---
 
 ## Tools and Programming languages
