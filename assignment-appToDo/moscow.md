@@ -14,3 +14,5 @@ The MoSCoW method provides a simple way of clarifying the priorities involved on
 **Could have:** These are just _nice to have_ they are desirable to provide a nice user experience or customer experience but they’re not that important to the delivery of the project. They will be delivered only if there’s enough time and resources to spare to devote to them. Otherwise, they’re likely to be tabled for future releases and re-reviewed to see if they have become higher or lower priority in the interim.
 
 **Won’t have:** These are the requirements that everyone agrees aren’t going to happen. It might be because they cost too much to implement or provide too little ROI (Return On Investment) for the efforts required to implement them. These are simply left to one side until they are either removed from the requirements list or become a higher priority.
+
+![MoSCoW](https://github.com/catamold/appToDo/blob/master/images/final-assignment/MoSCoW.png)
