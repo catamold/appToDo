@@ -22,4 +22,4 @@ has_children: false
 **Task:** A model class with specific attributes like title, priority, date, note, list of tags, status, etc.
 
 **MyTestCase:** NUnit is a tool designed for testing application components. Giving expected results, we assure good operations of the application.
-![Model-View-Controller](https://github.com/ps-ds-lab/2019-30235-catamold/blob/master/Projects/Final%20Project/Images/Model-View-Controller.png)
+![Model-View-Controller](../../images/final-assignment/Model-View-Controller.png)

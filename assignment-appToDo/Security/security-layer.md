@@ -15,4 +15,4 @@ The security process has 4 steps:
 * Key -> Encrypted Data
 * Padlock -> Limited access
 
-![Security Layer](../images/final-assignment/SecurityLayer.png)
+![Security Layer](../../images/final-assignment/SecurityLayer.png)
