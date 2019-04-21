@@ -1,6 +1,7 @@
 ---
 title: Mapping
 parent: NHibernate
+grand_parent: Final Assignment
 has_children: false
 ---
 

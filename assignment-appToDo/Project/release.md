@@ -1,6 +1,7 @@
 ---
 title: Release
 parent: Project
+grand_parent: Final Assignment
 has_children: false
 ---
 
