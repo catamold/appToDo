@@ -10,4 +10,4 @@ NHibernate is an object-relational mapping (ORM) solution for the Microsoft .NET
 
 The application code uses the NHibernate ISession and IQuery APIs for persistence operations and only has to manage database transactions.
 
-![NHibernate Architecture](../images/final-assignment/NHibernateArchitecture.png)
+![NHibernate Architecture](../../images/final-assignment/NHibernateArchitecture.png)

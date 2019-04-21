@@ -24,4 +24,4 @@ The application uses different packages which contains specific classes:
 
 **SecurityLayer:** Connection, Encryption, Privilege, XmlConverter
 
-![Packages](../images/final-assignment/Packages.PNG)
+![Packages](../../images/final-assignment/Packages.PNG)

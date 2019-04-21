@@ -1,7 +1,7 @@
 ---
 title: Final Assignment
 has_children: true
-nav_order: 5
+nav_order: 27
 ---
 
 ## Intro
