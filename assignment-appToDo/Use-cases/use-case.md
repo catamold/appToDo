@@ -78,9 +78,3 @@ Next I'll present the use-cases for the application as described in Alistair Coc
 
 *System:* ToDo Main Page
 1.	Based on the priority, some reminders will appear as a notification in time.
-
-## Weather API
-Application displays a weather forecast from openweathermap.org website. The first step in using openweathermap.org is to get an API ID which is free by signing up for a free account.
-
-This library takes what openweathermap api returns in JSON, and converts it to C# objects for easy interaction with in C# projects. The application need some Frameworks to work installed from NuGet:
-- Newtonsoft.Json _by James Newton-King_

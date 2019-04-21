@@ -1,5 +1,5 @@
 ---
-title: Security
+title: Release
 parent: Project
 has_children: false
 ---
