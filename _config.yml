@@ -1,7 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
+color_scheme: dark #"nil" or "dark"
 
 title: To-Do Application
-description: Any Task, Any Goal, Get Things Done.
+description: Any Task, Any Goal, Get Things Done
+url: "https://catamold.github.io"
+
 author:
   name: Catalin Moldovan
   github: catamold

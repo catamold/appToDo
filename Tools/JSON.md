@@ -1,6 +1,6 @@
 ---
 title: JSON
-parent: Programming languages
+parent: Tools
 grand_parent: Final Assignment
 has_children: false
 ---
@@ -16,4 +16,4 @@ JSON's basic data types are:
 * **Object**: an unordered collection of name–value pairs where the names are strings. 
 * **null**: An empty value, using the word null
 
-![JSON](../../images/final-assignment/JSON.png)
+![JSON](../images/final-assignment/JSON.png)

@@ -1,6 +1,6 @@
 ---
 title: XML
-parent: Programming languages
+parent: Tools
 grand_parent: Final Assignment
 has_children: false
 ---
@@ -14,4 +14,4 @@ XML's basic data types are:
 * **decimal, float, double**
 * **duration, dateTime, time, date...**
 
-![XML](../../images/final-assignment/XML.png)
+![XML](../images/final-assignment/XML.png)
