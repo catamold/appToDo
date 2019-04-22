@@ -1,7 +1,6 @@
 ---
 title: MySQL
 parent: Tools
-grand_parent: Final Assignment
 has_children: false
 ---
 
