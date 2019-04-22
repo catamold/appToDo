@@ -16,7 +16,14 @@ has_children: false
 
 ## NuGet
 
+* EntityFramework _by Microsoft_
 * MySQL.Data _by Oracle v6.10.8_
 * MySQL.Data.Entity _by Oracle v6.10.8_
 * NHibernate by _NHibernate community, Hibernate community_
+* FluentNHibernate by _James Gregory and contributors_
+* NUnit _by Charlie Poole, Rob Prouse_
 * Newtonsoft.Json _by James Newton-King_
+* Remotion.Linq _by rubicon IT GmbH_
+* Remotion.Linq.EagerFetching _by rubicon IT GmbH_
+* Iesi.Collections _by Aidant Systems, Jason Smith, NHibernate community_
+* Antlr3.Runtime _by Sam Harwell, Terence Parr_
