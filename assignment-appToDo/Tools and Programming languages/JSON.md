@@ -6,7 +6,7 @@ has_children: false
 ---
 
 ## JSON
-JavaScript Object Notation (JSON) is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types.
+**JavaScript Object Notation** (JSON) is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types.
 
 JSON's basic data types are:
 * **Number**: a signed decimal number that may contain a fractional part and may use * exponential E notation.
@@ -16,4 +16,4 @@ JSON's basic data types are:
 * **Object**: an unordered collection of name–value pairs where the names are strings. 
 * **null**: An empty value, using the word null
 
-![JSON](../../images/final-assignment/CodeMap.PNG)
+![JSON](../../images/final-assignment/JSON.png)
