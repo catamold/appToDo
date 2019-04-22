@@ -7,7 +7,7 @@ has_children: false
 
 ## Data Received
 
-Example of JSON data file received from [https://openweathermap.org/current](OpenWeatherMap):
+Example of JSON data file received from [OpenWeatherMap](https://openweathermap.org/current):
 
 	"coord":{"lon":23.59,"lat":46.77},
 	"weather":[{"id":803,"main":"Rain","description":"light rain","icon":"04d"}],
@@ -21,6 +21,7 @@ Example of JSON data file received from [https://openweathermap.org/current](Ope
 	"id":681290,
 	"name":"Cluj-Napoca",
 	"cod":200
+
 The following field will be processed so that it will give some advice to user:
 * **weather.main**: _Rain (/Snow)_
 * **main.temp**: _287.65 'F
