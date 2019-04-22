@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## To-Do Application
 
-You can use the [editor on GitHub](https://github.com/catamold/catamold.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### ToDoApp v0.2
+_released on Apr 17, 2019_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+New features added:
+- Data stored on MySQL Database
+- Register/Login action
+- PRO/BASIC Plan subscription
+- Live notifications 
+- The ability to quick search for reminders
+- Quick access to incomplete reminders from Notifications Bar
+- A supercharged tagging system which extracts the tags from the reminder's note through hashtag
 
-### Markdown
+**Assets**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[`ToDoApp-0.2.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.2/ToDoApp-0.2.zip)
 
-```markdown
-Syntax highlighted code block
+[`Database`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.2/Database.sql)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### ToDoApp v0.1
+_released on Apr 4, 2019_
 
-**Bold** and _Italic_ and `Code` text
+This release includes a TO-DO application for any people like students, workers, families. They can manage their time adding reminders, have a checklist for groceries, shopping or tasks.
+- Add Task
+- Edit Task
+- Preview Task
+- Delete Task
+- Sort Task
 
-[Link](url) and ![Image](src)
-```
+**Assets**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catamold/catamold.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[`ToDoApp-0.1.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.1/ToDoApp-0.1.zip)
