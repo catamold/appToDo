@@ -18,7 +18,7 @@ New features added:
 
 [`Database`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.2/Database.sql)
 
-
+***
 
 ### ToDoApp v0.1
 _released on Apr 4, 2019_
