@@ -1,2 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
-show_downloads: true
+
+title: To-Do Application
+description: Any Task, Any Goal, Get Things Done.
+author:
+  name: Catalin Moldovan
+  github: catamold
