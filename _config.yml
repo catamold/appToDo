@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark" #"nil" or "dark"
+color_scheme: nil #nil or "dark"
 
 title: To-Do Application
 description: Any Task, Any Goal, Get Things Done
