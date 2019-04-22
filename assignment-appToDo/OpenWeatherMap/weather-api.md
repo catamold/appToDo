@@ -1,7 +1,8 @@
 ---
 title: Weather API
 parent: Final Assignment
-has_children: false
+has_children: true
+nav_order: 1
 ---
 
 ## Weather API
