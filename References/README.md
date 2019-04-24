@@ -48,3 +48,5 @@
 [20] [EER Diagram](https://dev.mysql.com/doc/workbench/en/wb-creating-eer-diagram.html)
 
 [21] [Open Weather Map](https://openweathermap.org/api)
+
+[22] [GitHub Pages]([https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e])
