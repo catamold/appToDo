@@ -21,7 +21,7 @@
 
 [7] [Windows Forms](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms?view=netframework-4.7.2)
 
-[8] [Using XML with C#](https://csharp.net-tutorials.com/xml/introduction/)
+[8] [Using XML with C#](https://csharp.net-tutorials.com/xml/introduction)
 
 [9] [Multi-Threading Forms](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.applicationcontext?view=netframework-4.7.2)
 
@@ -41,7 +41,7 @@
 
 [17] [Threads](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?view=netframework-4.7.2)
 
-[18] [MessageBox](https://www.c-sharpcorner.com/UploadFile/mahesh/understanding-message-box-in-windows-forms-using-C-Sharp/)
+[18] [MessageBox](https://www.c-sharpcorner.com/UploadFile/mahesh/understanding-message-box-in-windows-forms-using-C-Sharp)
 
 [19] [Code maps](https://docs.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2019)
 
@@ -49,4 +49,6 @@
 
 [21] [Open Weather Map](https://openweathermap.org/api)
 
-[22] [GitHub Pages]([https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e])
+[22] [GitHub Pages](https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e)
+
+[23] [Deployment Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-deployment-diagram) ([Link 2](https://www.lucidchart.com/pages/uml-deployment-diagram))
