@@ -1,8 +1,7 @@
 ---
 title: Data Received
-parent: Weather API
-grand_parent: Iteration 2
-has_children: false
+parent: Iteration 2
+has_children: true
 ---
 
 ## Data Received
@@ -23,11 +22,11 @@ Example of JSON data file received from [OpenWeatherMap](https://openweathermap.
 	"cod":200
 
 The following field will be processed so that it will give some advice to user:
-* **weather.main**: _Rain (/Snow)_
-* **main.temp**: _287.65 'F
+* **weather.main**: _Rain_ (/Snow)
+* **main.temp**: _287.65_ 'F
 * **visibility**: _10000_ m
 * **wind.speed**: _5.7_ m/s
 * **clouds.all**: _75_ / 100 
-* **name**: _Cluj_Napoca_
+* **name**: _Cluj-Napoca_
 
 From these information we can say if it's raining or snowing or if it's a sunny day or cloudy based on percentage of cloud cover. Horizontal visibility will tell us if the weather is foggy and finally the wind speed can give us information about storms or hurricane.
