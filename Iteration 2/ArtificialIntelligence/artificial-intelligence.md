@@ -28,4 +28,4 @@ It involves extracting pieces of data that already exist within any given text s
 
 Keywords are the most relevant terms within a text, terms that summarize the contents of text in list form. Keyword extraction can be used to index data to be searched and to generate tag clouds. For instancce hashtags.
 
-![TextExtraction](../images/final-assignment/TextExtraction.png)
+![TextExtraction](../../images/final-assignment/TextExtraction.png)
