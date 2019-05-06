@@ -1,7 +1,6 @@
 ---
 title: Artificial Intelligence
-parent: Weather API
-grand_parent: Iteration 2
+parent: Iteration 2
 has_children: true
 nav_order: 1
 ---
