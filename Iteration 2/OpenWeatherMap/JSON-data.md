@@ -1,7 +1,8 @@
 ---
 title: Data Received
-parent: Iteration 2
-has_children: true
+parent: Weather API
+grand_parent: Iteration 2
+has_children: false
 ---
 
 ## Data Received
