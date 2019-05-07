@@ -1,11 +1,11 @@
 ---
-title: Data input
+title: Data Input
 parent: Artificial Intelligence
 grand_parent: Iteration 2
 has_children: false
 ---
 
-## Data input
+## Data Input
 
 ### Auto-complete
 Here is a list of all the suggestion words used in the project:
@@ -20,7 +20,7 @@ Here is a list of all the suggestion words used in the project:
 * matter + \[how\]
 
 ### Abbreviations
-Here is a list of all the abreviations used in the project:
+Here is a list of all the abbreviations used in the project:
 * sth - something
 * w8 - wait
 * appt - appointment
