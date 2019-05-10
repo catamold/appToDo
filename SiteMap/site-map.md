@@ -41,6 +41,8 @@ has_children: false
 	* [Forms](../Iteration_1/Packages/forms.md)
 - [**Iteration_2**](../Iteration_2/Iteration-2.md)
   * [Deployment Diagram](../Iteration_2/deployment-diagram.md)
+  * [WCF Service](../Iteration_2/WCF/WCF-service.md)
+	* [Data Transmited](../Iteration_2/WCF/data-transmited.md)
   * [Artificial Intelligence](../Iteration_2/ArtificialIntelligence/artificial-intelligence.md)
 	* [Data input](../Iteration_2/ArtificialIntelligence/data-input.md)
   * [Weather API](../Iteration_2/OpenWeatherMap/weather-api.md)
