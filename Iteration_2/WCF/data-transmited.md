@@ -8,7 +8,8 @@ has_children: false
 ## Data Transmited
 
 Example of **App.config** configuration:
-```<?xml version="1.0" encoding="utf-8" ?>
+```
+<?xml version="1.0" encoding="utf-8" ?>
 <configuration>
     <startup> 
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
