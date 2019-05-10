@@ -12,14 +12,14 @@ Windows Communication Foundation (WCF) is a unified framework for creating secur
 
 WCF service is based on an interface that defines a contract between the service and the client. It is marked with a _ServiceContractAttribute_ attribute:
 
-```[ServiceContract]
-public interface IService1
-```
+``[ServiceContract]``
+``public interface IService1``
+
 You define functions or methods that are exposed by a WCF service by marking them with a _OperationContractAttribute_ attribute.
 
-```[OperationContract]
-string GetData(string value);
-```
+``[OperationContract]``
+
+``string GetData(string value);``
 
 WCF client consists of a proxy that enables an application to communicate with a WCF service, and an endpoint that matches an endpoint defined for the service. The proxy is generated on the client side in the _App.config_ file and includes information about the types and methods that are exposed by the service.
 
@@ -29,4 +29,4 @@ WCF client consists of a proxy that enables an application to communicate with a
 Framework (Add Service Reference):
 * System.ServiceModel
 
-![ClientServer](../../images/final-assignment/ClientServer.png)
+![ClientServer](../../images/final-assignment/Client-Server.png)
