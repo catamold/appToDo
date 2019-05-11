@@ -14,14 +14,14 @@ _D_ (Date), _L_ (Location), _H_ (Hashtags) and _A_ (Autostatement) can be option
 
 **Example of coded message:**
 
-``DXHA 08-May-19 10:30:00 AM #party #music \n 29 Just listen this #music #party as soon as possible``
+``DXHA 08-May-19 10:30:00 AM #party #music \n 29 Just listen this #music #party as soon as possible p``
 
 **Decoded message:**
 ```
 Date: 08-May-19 10:30:00 AM
 Location:
 Hashtags: #party #music
-Message: Just listen this #music #party as
+Message: Just listen this #music #party as p
 ```
 All this information is sent via localhost address which can be configured in _App.config_ file.
 
