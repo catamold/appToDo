@@ -54,3 +54,5 @@
 [23] [Deployment Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-deployment-diagram) ([Link 2](https://www.lucidchart.com/pages/uml-deployment-diagram))
 
 [24] [WCF Service](https://docs.microsoft.com/en-us/visualstudio/data-tools/windows-communication-foundation-services-and-wcf-data-services-in-visual-studio)
+
+[25] [Safe Thread calls](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-make-thread-safe-calls-to-windows-forms-controls)

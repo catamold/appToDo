@@ -6,8 +6,26 @@ has_children: false
 ---
 
 ## Data Transmited
+Data is sent via WCF from Client 1 to Client 2 as a message, then it is divided in sections and then Client 2 sends a coded message to Client 1 as the following:
 
-Example of **App.config** configuration:
+**DLHA [D1 D2 D3] [L] [H1 H2 ... Hn \n] [A] [@/message]**
+
+_D_ (Date), _L_ (Location), _H_ (Hashtags) and _A_ (Autostatement) can be optional, transmited as _X_. _@_ means that there's no message to be read. Client 1 will decode message and it will apply some patterns to the text.
+
+**Example of coded message:**
+
+``DXHA 08-May-19 10:30:00 AM #party #music \n 29 Just listen this #music #party as soon as possible``
+
+**Decoded message:**
+```
+Date: 08-May-19 10:30:00 AM
+Location:
+Hashtags: #party #music
+Message: Just listen this #music #party as
+```
+All this information is sent via localhost address which can be configured in _App.config_ file.
+
+**Example of App.config configuration:**
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
