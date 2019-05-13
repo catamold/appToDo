@@ -33,3 +33,4 @@
 25. [Safe Thread calls](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-make-thread-safe-calls-to-windows-forms-controls)
 26. [Using JSON with C#](https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/support-for-json-and-other-data-transfer-formats)
 27. [SetConsoleCtrlHandler function](https://docs.microsoft.com/en-us/windows/console/setconsolectrlhandler)
+28. [Batch File](https://www.makeuseof.com/tag/write-simple-batch-bat-file/)
