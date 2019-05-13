@@ -13,8 +13,9 @@ Data is sent via WCF from Client 1 to Client 2 as a message, then it is divided 
 _D_ (Date), _L_ (Location), _H_ (Hashtags), _A_ (Autostatement), _T_ (Temperature in \`C) and _W_ (Weather) can be optional, transmited as _X_. _@_ means that there's no message to be read. Client 1 will decode message and it will apply some patterns to the text.
 
 **Example of coded message:**
-
-``DXHATW 08-May-19 10:30:00 AM #party #music \n 29 19.25 Raining Just listen this #music #party as soon as possible p``
+```
+DXHATW 08-May-19 10:30:00 AM #party #music \n 29 19.25 Raining Just listen this #music #party as soon as possible p
+```
 
 **Decoded message:**
 ```
