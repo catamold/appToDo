@@ -17,7 +17,7 @@ has_children: false
 * Weather API (OpenWeatherAPI, Main, Query, Clouds, Coord, Rain, Snow, Sys, Weather, Wind)
 
 **AppToDo**
-* See [Iteration 2 Classes](../../Iteration_1/Packages/classes.md)
+* See [Iteration 1 Classes](../../Iteration_1/Packages/classes.md)
 
 ![TableAI](../../images/final-assignment/TableAI.png)
 
