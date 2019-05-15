@@ -1,13 +1,13 @@
 ---
 title: Iteration 2
 has_children: true
-nav_order: 11
+nav_order: 12
 ---
 
 ## Intro
 
-New features will be presented later.
+New features added like Rudimentary Natural Language Processing support, Weather support and the ability to create workspaces.
 
 **Sprint Week 9-11**
 
-_Mar 19, 2019 - May 31, 2019_
+_Apr 19, 2019 - May 15, 2019_

@@ -9,4 +9,6 @@ Git has the ability to tag specific points in a repository’s history as being 
 
 Two weeks later, database layer was added, so that anyone who uses the application can access their reminders based on their account. Also user is notified when the task is ready to be completed, using a background thread. These features are available on the new release [v0.2](https://catamold.github.io/appToDo/).
 
-In May 15, a new AI database was added and a Client-Server architecture [v0.3](https://catamold.github.io/appToDo/).
+In May 15, a new AI database was added and was implemented a Client-Server architecture. This also adds two more application which communicate with the main app throw HTTP protocol [v0.3](https://catamold.github.io/appToDo/).
+
+After some days a new version of application was released. Now users can create their owns workspace and also they can add reminders. To save time of removing taks after completion or removing workspace if it's empty, the application will do all these operations for user [v0.4](https://catamold.github.io/appToDo/).
