@@ -4,7 +4,7 @@ has_children: false
 ---
 
 ## Assignment 2
-## v0.4 - Apr XX, 2019
+## v0.4 - May 17, 2019
 **Fixed** [#38](https://github.com/ps-ds-lab/2019-30235-catamold/issues/38) Reminders Filter on Workspace
 
 **Added** [#29](https://github.com/ps-ds-lab/2019-30235-catamold/issues/29) Dynamic workspaces

@@ -1,5 +1,21 @@
 ## To-Do Application
 
+### ToDoApp v0.4
+_released on May 17, 2019_
+
+New features added:
+- Create workspaces
+- Assign tasks to workspace
+- Auto-remove workspaces
+
+**Assets**
+
+[`ToDoApp-0.4.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.4/ToDoApp-0.4.zip)
+
+[`Database`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.4/Database.sql)
+
+***
+
 ### ToDoApp v0.3
 _released on May 15, 2019_
 
