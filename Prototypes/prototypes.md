@@ -16,4 +16,4 @@ has_children: false
 [`ArtificialIntelligence-0.3.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.3/ArtificialIntelligence.zip)
 
 ### WCF Service
-[`WCF_Service-0.3.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.3/WCF_Service.zip)
+[`WCF_Service-0.3.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.3/Client-Server.zip)

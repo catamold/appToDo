@@ -1,5 +1,23 @@
 ## To-Do Application
 
+### ToDoApp v0.3
+_released on May 15, 2019_
+
+Added a Client-Server architecture and new features:
+* Artificial Intelligence
+	* Abreviations
+	* Auto-Complete
+	* Location, Date and Time
+* Realtime Weather Status
+
+**Assets**
+
+[`ToDoApp-0.3.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/archive/v0.3.zip)
+
+[`Database AI`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.3/AIDatabase.sql)
+
+***
+
 ### ToDoApp v0.2
 _released on Apr 17, 2019_
 

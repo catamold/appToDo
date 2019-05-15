@@ -33,11 +33,11 @@ NHibernate uses XML files for mapping database fields to objects properties. The
 
 > **x.ConnectionString** our connection string will connect to the local machine because we set the server property to a dot. _(e.g. "Database=test_db;Data Source=localhost;Port=3306;User Id=admin;Password=123")_
 >
-> **x.Driver<MySqlDataDriver>();** we will work with MySqlDataDriver
+> **x.Driver\<MySqlDataDriver\>();** we will work with MySqlDataDriver
 >
-> **x.Dialect<MySQL55Dialect>();** we will use the dialect for MySQL Server. This will make available the features in MySQL Server.
+> **x.Dialect\<MySQL55Dialect\>();** we will use the dialect for MySQL Server. This will make available the features in MySQL Server.
 
-## Executing Hibernate Query Language (HQL)**
+## Executing Hibernate Query Language (HQL)
 
 Hibernate Query Langauge (HQL) is very similar to SQL.
 * **FROM…** indicates this is a SELECT query in SQL language
