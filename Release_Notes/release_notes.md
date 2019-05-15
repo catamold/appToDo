@@ -3,10 +3,8 @@ title: Releases Notes
 has_children: false
 ---
 
-## Releases Notes
 ## Assignment 2
-### v0.3 - May 15, 2019
-***
+## v0.3 - May 15, 2019
 **Added** [#37](https://github.com/ps-ds-lab/2019-30235-catamold/issues/37) Client Database
 
 **Added** [#31](https://github.com/ps-ds-lab/2019-30235-catamold/issues/31) User's Tags
@@ -21,9 +19,9 @@ has_children: false
 
 **Added** [#32](https://github.com/ps-ds-lab/2019-30235-catamold/issues/32) Artificial Intelligence
 
-## Assignment 1
-### v0.2 - Apr 17, 2019
 ***
+## Assignment 1
+## v0.2 - Apr 17, 2019
 **Added** [#24](https://github.com/ps-ds-lab/2019-30235-catamold/issues/24) NUnit tests
 
 **Added** [#19](https://github.com/ps-ds-lab/2019-30235-catamold/issues/19) Pro Subscription
@@ -42,8 +40,8 @@ has_children: false
 
 **Improved** [#14](https://github.com/ps-ds-lab/2019-30235-catamold/issues/14) Security
 
-### v0.1 - Apr 4, 2019
 ***
+## v0.1 - Apr 4, 2019
 **Added** [#11](https://github.com/ps-ds-lab/2019-30235-catamold/issues/11) Task Interface
 
 **Added** [#25](https://github.com/ps-ds-lab/2019-30235-catamold/issues/25) Preview Note
