@@ -34,3 +34,4 @@
 26. [Using JSON with C#](https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/support-for-json-and-other-data-transfer-formats)
 27. [SetConsoleCtrlHandler function](https://docs.microsoft.com/en-us/windows/console/setconsolectrlhandler)
 28. [Batch File](https://www.makeuseof.com/tag/write-simple-batch-bat-file/)
+29. [Git Tags](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-tags)
