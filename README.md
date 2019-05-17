@@ -10,7 +10,7 @@ New features added:
 
 **Assets**
 
-[`ToDoApp-0.4.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.4/ToDoApp-0.4.zip)
+[`ToDoApp-0.4.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/archive/v0.4.zip)
 
 [`Database`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.4/Database.sql)
 

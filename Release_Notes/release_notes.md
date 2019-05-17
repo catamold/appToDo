@@ -5,6 +5,8 @@ has_children: false
 
 ## Assignment 2
 ## v0.4 - May 17, 2019
+**Fixed** [#39](https://github.com/ps-ds-lab/2019-30235-catamold/issues/39) Date Syncronization
+
 **Fixed** [#38](https://github.com/ps-ds-lab/2019-30235-catamold/issues/38) Reminders Filter on Workspace
 
 **Added** [#29](https://github.com/ps-ds-lab/2019-30235-catamold/issues/29) Dynamic workspaces
