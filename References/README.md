@@ -35,3 +35,5 @@
 27. [SetConsoleCtrlHandler function](https://docs.microsoft.com/en-us/windows/console/setconsolectrlhandler)
 28. [Batch File](https://www.makeuseof.com/tag/write-simple-batch-bat-file/)
 29. [Git Tags](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-tags)
+30. [OpenFileDialog](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/openfiledialog-component-windows-forms)
+31. [Read/Write BLOB](https://www.akadia.com/services/dotnet_read_write_blob.html)
