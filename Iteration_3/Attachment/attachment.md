@@ -16,4 +16,4 @@ Data can be exported into XML files for each users in a general format, so that 
 </Reminders>
 ```
 
-![Diagram](../../images/final-assignment/SQL.png)
+![Import-Export](../../images/final-assignment/Import-Export.png)

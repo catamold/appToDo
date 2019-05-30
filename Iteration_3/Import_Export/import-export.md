@@ -15,5 +15,5 @@ You can write a binary large object (BLOB) to a database as either binary or cha
 
 If the BLOB is stored in binary format, such as a SQL Server image field, you can pass an array of type byte as a binary parameter.
 
-![Import-Export](../../images/final-assignment/Import-Export.png)
+![Diagram](../../images/final-assignment/SQL.png)
 
