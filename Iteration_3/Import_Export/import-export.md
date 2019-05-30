@@ -1,0 +1,19 @@
+---
+title: Data Transfer
+parent: Iteration 3
+has_children: false
+---
+
+## Data Transfer
+**Obtaining BLOB Values from a Database**
+Binary large objects (BLOBs) contain gigabytes of data. When accessing the data in the BLOB field, use the _GetBytes_ or _GetChars_ typed accessors of the DataReader, which fill an array with data.
+
+_GetBytes_ and _GetChars_ will return a long value, which represents the number of bytes or characters returned. If you pass a null array to _GetByte_ or _GetChars_, the long value returned will be the total number of bytes or characters in the BLOB.
+
+**Writing BLOB Values to a Database**
+You can write a binary large object (BLOB) to a database as either binary or character data, depending on the type of field at your data source. To write a BLOB value to your database, issue the appropriate **INSERT** or **UPDATE** statement and pass the BLOB value as an input parameter.
+
+If the BLOB is stored in binary format, such as a SQL Server image field, you can pass an array of type byte as a binary parameter.
+
+![Import-Export](../../images/final-assignment/Import-Export.png)
+

@@ -1,5 +1,22 @@
 ## To-Do Application
 
+### ToDoApp v0.5-beta
+_released on May 30, 2019_
+
+New features added:
+- Assign attachment to tasks
+- Attachments stored on Database table
+- Export data file to computer
+- Import data file from computer
+
+**Assets**
+
+[`ToDoApp-0.5-beta.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/archive/v0.5-beta.zip)
+
+[`Database`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.5-beta/Database.sql)
+
+***
+
 ### ToDoApp v0.4
 _released on May 17, 2019_
 

@@ -20,3 +20,9 @@ has_children: false
 
 ### WCF Service (CS + AI)
 [`WCF_Service-0.4.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.4/WCF-Service.zip)
+
+### Data Export/Import
+[`Data_Extract_Import.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.5-beta/Data_Extract_Import.zip)
+
+### Open File Dialog
+[`OpenFileDialog.zip`](https://github.com/ps-ds-lab/2019-30235-catamold/releases/download/v0.5-beta/OpenFileDialog.zip)
