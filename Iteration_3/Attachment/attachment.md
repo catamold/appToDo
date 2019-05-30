@@ -15,6 +15,4 @@ You can write a binary large object (BLOB) to a database as either binary or cha
 
 If the BLOB is stored in binary format, such as a SQL Server image field, you can pass an array of type byte as a binary parameter.
 
-Data can be exported into XML files for each users in a general format, so that it can be used for other applications. This will ensure users that they will not lose their data. Also they can import other XML files from other applications to the application.
-
 ![Diagram](../../images/final-assignment/SQL.png)
