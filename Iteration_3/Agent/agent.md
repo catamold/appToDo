@@ -5,9 +5,9 @@ has_children: false
 ---
 
 ## Agent
-This solution doesn't use conditions and the programme don't know how many methods will be called (refereced) by the Agent. The concept is based of calling the method formed by a string. This string is created based on the verb and the noun's method.
+This solution doesn't use conditions and the program doesn't know how many methods will call (refereces) by the Agent. The concept is based on calling the method formed by a string. This string is created based on the verb and the noun's method.
 
-First I created some test methods which can return a value or not (void/int/string/double,List<Model>,List<string>,Model...). These methods can have no parameters, or just one, or 2,3, etc. When the programme has to call a method, it will pass the code (verb + noun) and a list of parameters (for calling the method). The Agent will check for the verb which will show the noun, then we'll know which is the method to be called. The method to be called is formed by verb + method's name. Now, we will invoke the real method the application wanted to call with the right number of parameters. After that, data is returned (if it's necesary) to the app where the Agent was called.
+First I created some test methods which can return a value or not (void, int, string, double, List<Model>, List<string>, Model...). These methods can have no parameters, or just one, or 2,3, etc. When the program has to call a method, it will pass the code (verb + noun) and a list of parameters. The Agent will check for the verb which will show the noun, then we'll know which is the method to call. The method to be called is formed by verb + method's name. Now, we will invoke the real method the application wanted to call, with the right number of parameters. After that, data is returned (if it's necesary) to the app where the Agent's method was called.
 
 Example of successful command
 ```
