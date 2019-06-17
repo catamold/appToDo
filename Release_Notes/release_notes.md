@@ -3,6 +3,15 @@ title: Releases Notes
 has_children: false
 ---
 
+## Assignment 3
+## v0.5-beta - May 30, 2019
+**Added** [#42](https://github.com/ps-ds-lab/2019-30235-catamold/issues/42) Database Attachment
+
+**Added** [#41](https://github.com/ps-ds-lab/2019-30235-catamold/issues/41) Attachment
+
+**Added** [#40](https://github.com/ps-ds-lab/2019-30235-catamold/issues/40) Agent system
+
+***
 ## Assignment 2
 ## v0.4 - May 17, 2019
 **Fixed** [#39](https://github.com/ps-ds-lab/2019-30235-catamold/issues/39) Date Syncronization
