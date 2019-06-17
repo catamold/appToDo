@@ -7,7 +7,7 @@ has_children: false
 ## Data Transfer
 Data can be exported into XML files for each users in a general format, so that it can be used for other applications. This will ensure users that they will not lose their data. Also they can import other XML files from other applications to the application.
 
-**Example of _.xml file**
+**Example of _.xml file_**
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <Reminders>
